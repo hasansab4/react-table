@@ -1,5 +1,5 @@
 {
-  "homepage":"https://hasansab4/github.io/react-table",
+  "homepage": "https://hasansab4/github.io/react-table",
   "name": "my-react-app",
   "private": true,
   "version": "1.0.0",
@@ -10,12 +10,13 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "jest",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
