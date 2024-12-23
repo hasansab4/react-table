@@ -1,18 +1,20 @@
 <h1>React Table</h1>
+<p>You can view the hosted app live at <a href="https://hasansab4.github.io/react-table/" target="_blank">https://hasansab4.github.io/react-table/</a>.</p>
+
 <p>A simple, responsive table component built with React and Vite. This project demonstrates how to implement pagination for displaying data in a table format.</p>
 
 <h2>Features</h2>
 <ul>
-<li><strong>Pagination</strong>: Data is paginated, showing 5 rows per page.</li>
-<li><strong>Dynamic Table Data</strong>: Data is fetched from a public JSON endpoint and displayed in a table format.</li>
-<li><strong>Custom Styling</strong>: Styled the table with CSS for a clean and user-friendly interface.</li>
+  <li><strong>Pagination</strong>: Data is paginated, showing 5 rows per page.</li>
+  <li><strong>Dynamic Table Data</strong>: Data is fetched from a public JSON endpoint and displayed in a table format.</li>
+  <li><strong>Custom Styling</strong>: Styled the table with CSS for a clean and user-friendly interface.</li>
 </ul>
 
 <h2>Technologies Used</h2>
 <ul>
-<li><strong>React</strong>: A JavaScript library for building user interfaces.</li>
-<li><strong>Vite</strong>: A fast build tool and development server.</li>
-<li><strong>CSS</strong>: For custom table styling.</li>
+  <li><strong>React</strong>: A JavaScript library for building user interfaces.</li>
+  <li><strong>Vite</strong>: A fast build tool and development server.</li>
+  <li><strong>CSS</strong>: For custom table styling.</li>
 </ul>
 
 <h2>Getting Started</h2>
@@ -40,9 +42,9 @@ cd react-table
 
 <h2>Project Structure</h2>
 <ul>
-<li><strong>Table Component (`Table.js`)</strong>: Handles the table rendering, pagination, and dynamic data.</li>
-<li><strong>App Component (`App.js`)</strong>: The main component that fetches data from the API and renders the <code>Table</code> component.</li>
-<li><strong>CSS (`index.css`)</strong>: Custom styles for the table and pagination controls.</li>
+  <li><strong>Table Component (`Table.js`)</strong>: Handles the table rendering, pagination, and dynamic data.</li>
+  <li><strong>App Component (`App.js`)</strong>: The main component that fetches data from the API and renders the <code>Table</code> component.</li>
+  <li><strong>CSS (`index.css`)</strong>: Custom styles for the table and pagination controls.</li>
 </ul>
 
 <h2>Sample API</h2>
