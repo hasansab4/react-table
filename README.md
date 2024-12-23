@@ -1,5 +1,5 @@
 <h1>React Table</h1>
-<p>You can view the hosted app live at <a href="https://hasansab4.github.io/react-table/" target="_blank">https://hasansab4.github.io/react-table/</a>.</p>
+<p>You can view the hosted app live at <a href="https://hasansab4.github.io/react-table/" target="_blank">Live Application</a>.</p>
 
 <p>A simple, responsive table component built with React and Vite. This project demonstrates how to implement pagination for displaying data in a table format.</p>
 
