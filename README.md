@@ -1,4 +1,4 @@
-<h1>React + Vite Table Component</h1>
+<h1>React Table</h1>
 <p>A simple, responsive table component built with React and Vite. This project demonstrates how to implement pagination for displaying data in a table format.</p>
 
 <h2>Features</h2>
@@ -23,8 +23,8 @@
 
 <h3>1. Clone the repository</h3>
 <pre>
-git clone https://github.com/your-username/react-vite-table.git
-cd react-vite-table
+git clone https://github.com/hasansab4/react-table.git
+cd react-table
 </pre>
 
 <h3>2. Install dependencies</h3>
@@ -32,7 +32,7 @@ cd react-vite-table
 
 <h3>3. Run the development server</h3>
 <pre>npm run dev</pre>
-<p>Your app will now be running at <a href="http://localhost:3000" target="_blank">http://localhost:3000</a>. Open it in your browser to see the table component in action.</p>
+<p>Your app will now be running at <a href="http://localhost:5173" target="_blank">http://localhost:5173</a>. Open it in your browser to see the table component in action.</p>
 
 <h3>4. Build the project for production</h3>
 <pre>npm run build</pre>
