@@ -1,7 +1,3 @@
-# React + Vite
+React + Vite Table Component
 
-clone the repo
-
-run cmd : `npm install`
-
-run cmd : `npm run dev`
+A simple, responsive table component built with React and Vite. This project demonstrates how to implement pagination for displaying data in a table format.
