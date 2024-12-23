@@ -20,9 +20,6 @@
 
 <h3>Prerequisites</h3>
 <p>Ensure you have the following installed on your local machine:</p>
-<ul>
-<li><strong>Node.js</strong>: <a href="https://nodejs.org/">Download Node.js</a></li>
-</ul>
 
 <h3>1. Clone the repository</h3>
 <pre>
@@ -56,15 +53,3 @@ cd react-vite-table
 <h2>Run Tests</h2>
 <p>If you have set up tests, you can run them using:</p>
 <pre>npm test</pre>
-
-<h2>Contributing</h2>
-<ol>
-<li>Fork the repository.</li>
-<li>Create a new branch (<code>git checkout -b feature-name</code>).</li>
-<li>Commit your changes (<code>git commit -am 'Add new feature'</code>).</li>
-<li>Push to the branch (<code>git push origin feature-name</code>).</li>
-<li>Create a new Pull Request.</li>
-</ol>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE" target="_blank">LICENSE</a> file for details.</p>
